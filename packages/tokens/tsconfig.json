@@ -1,0 +1,4 @@
+{
+    "extends": "@exemplo-guilda-monorepo/ts-config/base.json",
+    "include": ["src"]
+  }
